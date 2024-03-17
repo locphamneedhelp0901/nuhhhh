@@ -33,17 +33,18 @@
         </div>
     </div>
 </div>
-<div class="hinhnenmau">
-    <div class="right">KOKOKO
-    <img src='../images/tải xuống.jpg'></div>
-   <div class="left1">
-   <div class="left">
-<div class="products img">
-    <div class="footer">
-        <div class="products">
+<div class="mid">
+   <div class="left1"></div>
+   <div class="left"></div>
+   <div class="right">KOKOKO<img src='../images/tải xuống.jpg'></div>
+</div>
+<div class="products"></div>
+<div class="footer">
+    <div class="products">
         <div class='row4'>CÔNG TY CỔ PHẦN TRUNG TÂM THƯƠNG MẠI ABZ VIỆT NAM</div>
         <div class='row4'>Trụ sở chính: 469 Nguyễn Hữu Thọ, P. Tân Hưng, Q.7, Tp. Hồ Chí Minh</div>
         <div class='row4'>Giấy chứng nhận đăng ký doanh nghiệp số 0304741634 do Phòng Đăng ký Kinh doanh thuộc Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 24/10/2006, đăng ký thay đổi lần thứ 16 ngày 17/12/2017.</div>
+    </div>
 </div>
 </body>
 </html>
